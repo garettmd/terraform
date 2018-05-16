@@ -6,7 +6,7 @@ description: |-
   Accesses state meta data from a remote backend.
 ---
 
-# remote_state
+# terraform_remote_state
 
 Retrieves state meta data from a remote backend
 
